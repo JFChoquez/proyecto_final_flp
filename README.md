@@ -23,7 +23,6 @@ python3 client.py
 │   ├── net_client.py   # Helper de red usado por el cliente.
 │   ├── protocol.py     # Framing de mensajes (longitud + JSON) para sockets.
 │   ├── theme.py        # Paleta de colores y estilos ttk (Material Design).
-│   └── venv/           # Entorno virtual de Python.
 ├── README.md           
 └── server/
     ├── cuidadores.db   # Base de datos SQLite (se crea sola al iniciar).
