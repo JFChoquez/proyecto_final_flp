@@ -1,7 +1,7 @@
 import json
 import struct
 
-HOST = "127.0.0.1"
+HOST = "217.216.53.79"
 PORT = 55000
 
 
